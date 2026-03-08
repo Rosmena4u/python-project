@@ -1,0 +1,30 @@
+Customer:pisal
+Phone:3841092
+Date:2026-03-05 11:50:19
+Cake|2|5.0
+TOTAL:10.0
+END
+Customer:kanika
+Phone:23919301
+Date:2026-04-07 11:42:12
+Cake|2|5.0
+TOTAL:10.0
+END
+Customer:kanika
+Phone:092312
+Date:2026-03-05 12:32:36
+Cake|1|5.0
+TOTAL:5.0
+END
+Customer:kjjugg
+Phone:5788
+Date:2026-03-05 12:36:08
+Cake|5|5.0
+TOTAL:25.0
+END
+Customer:hjkj
+Phone:6789
+Date:2026-03-05 12:36:28
+Cake|1|5.0
+TOTAL:5.0
+END
